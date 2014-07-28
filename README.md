@@ -1,4 +1,4 @@
-###An example of a working Vagrant + Azure provider deployment to clone/fork and experiment.
+####An example of a working Vagrant + Azure provider deployment to clone/fork and experiment.
 
 ####Instructions:
 
