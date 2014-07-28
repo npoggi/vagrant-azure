@@ -11,6 +11,7 @@ vagrant box add azure https://github.com/msopentech/vagrant-azure/raw/master/dum
 
 Runned into a couple of problems while following the instructions from both:
 https://github.com/MSOpenTech/vagrant-azure/
+
 http://blogs.msdn.com/b/tconte/archive/2014/06/19/building-your-ubuntu-php-development-box-on-azure-using-vagrant.aspx
 
 Mainly a problem with lower case numbers:
