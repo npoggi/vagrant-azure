@@ -2,10 +2,16 @@
 
 ####Instructions:
 
-##### 1.) Add the box with
+##### 1.) Create your cetificates
+https://github.com/pkgcloud/pkgcloud/blob/master/docs/providers/azure.md#azure-management-certificates
+
+##### 12.) Add your subcription and certificates paths to
+settings_secured.yalm
+
+##### 2.) Add the dummy Azure box with
 vagrant box add azure https://github.com/msopentech/vagrant-azure/raw/master/dummy.box
 
-##### 2.) Then just
+##### 3.) Then just
 **vagrant up** in the cloned folder (azure is the default)
 
 
